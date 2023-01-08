@@ -3,7 +3,7 @@
   $name = $_POST['name'];
   $email = $_POST['email'];
   $message = $_POST['message'];
-  $to = "your@email.com";
+  $to = "keyword1122@gmail.com";
   $subject = "New Contact Form Message";
   $headers = "From: $email" . "\r\n" .
              "Reply-To: $email" . "\r\n" .
